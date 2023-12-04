@@ -1,0 +1,8 @@
+ numpy
+ scipy
+ pandas
+ matplotlib
+ matplotlib-inline
+ ipython
+ ipykernel
+ pytest
